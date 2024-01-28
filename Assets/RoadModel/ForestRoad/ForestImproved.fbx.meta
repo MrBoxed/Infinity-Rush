@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: de29aeaaaea876145af7f0110ed063c3
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 6a5508f762991c946ac2508dd59cf169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 762ceb1f109e00e4d8194973d832c50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 9fd37b79a03f0354aaff69654aab5f8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-01
+    second: {fileID: 2100000, guid: 03a3b31cf27833d43a762aa053cf9b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-01-1
+    second: {fileID: 2100000, guid: 27bd86c3c69388d4abefedb0ab7e1fcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-02
+    second: {fileID: 2100000, guid: fa73c3becd8210847a673f3f06b38e93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-02-1
+    second: {fileID: 2100000, guid: 3a85f6d57f7659c47b4e0fd73d1c93cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-03
+    second: {fileID: 2100000, guid: 2c39aed082a5fa74aba06041ae4f4636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-03-1
+    second: {fileID: 2100000, guid: 41eedda6a79fa964bb8e55e4d64e6dae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-04
+    second: {fileID: 2100000, guid: fa012505e350f3f4fb493a28e880d87e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-04-1
+    second: {fileID: 2100000, guid: b99c4d250b8994a46a7092baf6bbf794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-05
+    second: {fileID: 2100000, guid: e0853714a95348a4cb438a02a535dd16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-05-1
+    second: {fileID: 2100000, guid: 535a75ea7fdfcf348b661a322dc32f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-2-01
+    second: {fileID: 2100000, guid: 53fed7e83cd34574498f604e3d125c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-2-02
+    second: {fileID: 2100000, guid: d6ffab52d712c63409f42a0d3d4e6a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-2-03
+    second: {fileID: 2100000, guid: d8cf157110e21bb4898fbe9c63e4e136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-2-04
+    second: {fileID: 2100000, guid: 68c9bb143899a9848b525a9389385444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch-2-05
+    second: {fileID: 2100000, guid: 9f7b40c507d6f7c41830afe05aba4247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hedge-01
+    second: {fileID: 2100000, guid: 972e18c0dee3475409648334c2307a4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hedge-01.001
+    second: {fileID: 2100000, guid: 4139667562342b74b8751453286f3c21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hedge-01.002
+    second: {fileID: 2100000, guid: 4edf9b34e7f02934e986a87c8c5016a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hedge-01.003
+    second: {fileID: 2100000, guid: e87b368aa41bb7c42a5dc4cc1d0ed4c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-grass-1-01
+    second: {fileID: 2100000, guid: bf908d70aec4b884a84471369cce515a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-grass-1-02
+    second: {fileID: 2100000, guid: a354e35c3622c354a8eeb76cacade37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubbery-1-01
+    second: {fileID: 2100000, guid: 0463236b0dc3af1468e2da153efe3a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubbery-2-02
+    second: {fileID: 2100000, guid: de508311c65549349a510126cad1d1a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubbery-2-03
+    second: {fileID: 2100000, guid: d4035ccc85d8ff04990d3f835718df7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubbery-2-04
+    second: {fileID: 2100000, guid: ae66947583c941849ab58cb818a16520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk-01
+    second: {fileID: 2100000, guid: 7dd9a5d828be03b4e925907b90fc77fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk-01-1
+    second: {fileID: 2100000, guid: 64355450ed06c9b4f8e75398c8e6bbc9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CorrugatedSteel007A_1K_NormalGL
+    second: {fileID: 2800000, guid: 74c0e7899382ab64eba12eee159d307a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CorrugatedSteel007A_1K_whit
+    second: {fileID: 2800000, guid: 33c35a60915b42e4b9d70c0915486233, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-01-1_baseColor
+    second: {fileID: 2800000, guid: 2820b22691deecc44944698d15da0a48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-01_baseColor
+    second: {fileID: 2800000, guid: 7f7771b1b29588e488511ef8e0086920, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-02-1_baseColor
+    second: {fileID: 2800000, guid: 0225209bbba4e8147971982072fdc261, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-02_baseColor
+    second: {fileID: 2800000, guid: 711c7273a9684ab48b3d546a9224654f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-03-1_baseColor
+    second: {fileID: 2800000, guid: 7e386c2ec17f4934c934c5517f4eaffe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-03_baseColor
+    second: {fileID: 2800000, guid: 8a8668e762489cc4abd901b48f91986e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-04-1_baseColor
+    second: {fileID: 2800000, guid: c43ca29f9eddb1e48b995afcc9a26e97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-04_baseColor
+    second: {fileID: 2800000, guid: 96ae558dff7d55f48bd2e9f3e5e0316e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-05-1_baseColor
+    second: {fileID: 2800000, guid: f839ab7ff3e0e64458624de42e06d414, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-05_baseColor
+    second: {fileID: 2800000, guid: 116259a21932a1045807a7114e53eaf6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-2-01_baseColor
+    second: {fileID: 2800000, guid: b9cf1b4d5e2c97b409f6f2d74c4642c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-2-02_baseColor
+    second: {fileID: 2800000, guid: 3542753ea0ad1304fbc86bce11bf8866, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-2-03_baseColor
+    second: {fileID: 2800000, guid: 4472fc58dc22f8947ab8e2747f46e068, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-2-04_baseColor
+    second: {fileID: 2800000, guid: 5954cce6cfdf6b54dab2ff821644eeb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: branch-2-05_baseColor
+    second: {fileID: 2800000, guid: 8787afc83c00ba54b806bce1177fe915, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: forest
+    second: {fileID: 2800000, guid: 4c6189f3d5bdb7743b49ddfd0d9be5fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hedge-01.001_baseColor
+    second: {fileID: 2800000, guid: 3ab3040eea60bed478b26f6ee453abd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hedge-01.002_baseColor
+    second: {fileID: 2800000, guid: 44046aacbc22346429eca4e6ca8a00e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hedge-01.003_baseColor
+    second: {fileID: 2800000, guid: ea6848422b0eac8488f1a14ea346707f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hedge-01_baseColor
+    second: {fileID: 2800000, guid: 6ec0f24544c06fc4986fcd8f66f58272, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: high-grass-1-01_baseColor
+    second: {fileID: 2800000, guid: 46eca6b5a9cf2c045b704473a27b4d1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: high-grass-1-02_baseColor
+    second: {fileID: 2800000, guid: 9c8635ac7f083cf4abf98d0b5233d089, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: seamlessEdited2
+    second: {fileID: 2800000, guid: 63b7d099396d296489f08bfd79ae6c30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shrubbery-1-01_baseColor
+    second: {fileID: 2800000, guid: ddfc15ee4f53b9849b3cede73c2ac55a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shrubbery-2-02_baseColor
+    second: {fileID: 2800000, guid: 97b442ff6a8597f4d8b0d0d16843ae04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shrubbery-2-03_baseColor
+    second: {fileID: 2800000, guid: 33cf6ecf41f87984b8622f06215bf799, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shrubbery-2-04_baseColor
+    second: {fileID: 2800000, guid: 5a01e6bd43e993c48832fae899643e91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trunk-01-1_baseColor
+    second: {fileID: 2800000, guid: 19b9b9b2eca6b714e8de756df33c2ceb, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
